@@ -1,5 +1,5 @@
 import { global_styles, chat_styles, message_styles } from "./style.js";
-import { iconSend } from "./img/message.js";
+import { iconSend } from "./message.js";
 
 export class chatBot extends HTMLElement{
 
