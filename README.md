@@ -56,6 +56,8 @@ Create for custom element and propertyes
 
 #### styles
 
+| 💡 Detallar mejor de que tratan los estilos y denominaciones de uso
+
 Only problem with custom elements is the style declaration. Actualy dont have a native method for import css on js and parse to string on development runtime. For legitible code, separated styles on other js file and import for variables.
 
 ```
